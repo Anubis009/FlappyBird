@@ -1,0 +1,29 @@
+/.idea
+/.vs
+/.vscode
+.[Dd][Ss]_[Ss]tore
+*.csproj.DotSettings
+*.sln.DotSettings.user
+
+/[Tt]emp
+/[Uu]ser[Ss]ettings
+/[Pp]roject[Ss]ettings
+/[Pp]ackages
+/[Oo]bj
+/[Oo]bjs
+/[Ll]ogs
+/[Ll]ibrary
+/[Ll]ibraries
+/[Bb]uild
+/[Bb]uilds
+
+ *.meta
+ *.tmp
+
+*.sln
+*.csproj
+*.csproj.DotSettings
+*.sln.DotSettings.user
+
+*.apk
+*.aab
